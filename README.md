@@ -1,8 +1,6 @@
-doc
-===
+#有关说明
 
-提供一些文档模板
+存放有用模板。
 
-#第一部分 pandoc模板
-
-核心是pandoc支持中文和自定义部分，比如default.latex,default.beamer等，还有幻灯片中s5等自定义css，以及epub.css等。
+## pandoc template
+引自官方源码，修改其支持中文。
